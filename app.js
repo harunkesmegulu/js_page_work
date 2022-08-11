@@ -13,5 +13,6 @@ submit.addEventListener("click",() => {
     sec2.style.display = " block" ;
     sec1.style.display = "none";
     span.innerHTML = number ;
+    console.log( "You selected:" ,`${e}`)
 });
 });
