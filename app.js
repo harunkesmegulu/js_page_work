@@ -1,4 +1,4 @@
-const buttons = document.querySelector(".main-button");
+const buttons = document.querySelector("button");
 const submit = document.querySelector(".submit");
 const sec1 = document.querySelector("#section-1");
 const sec2 = document.querySelector("#section-2");
