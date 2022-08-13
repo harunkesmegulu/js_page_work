@@ -73,6 +73,7 @@ button:hover {
   cursor: pointer;
   background-color: hsl(25, 97%, 53%);
   color: white;
+  
 }
 .submit {
   text-align: center;
